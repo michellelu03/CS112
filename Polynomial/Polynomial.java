@@ -228,4 +228,3 @@ public class Polynomial {
 		return retval;
 	}	
 }
-
